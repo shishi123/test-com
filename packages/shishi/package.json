@@ -1,0 +1,36 @@
+{
+  "name": "@library-front/shishi",
+  "version": "0.0.7",
+  "description": "基于 Vue3.x + ElementPlus 的组件库",
+  "main": "dist/index.js",
+  "module": "dist/index.module.js",
+  "typings": "typings/dongdong-components.d.ts",
+  "files": [
+    "dist",
+    "typings",
+    "README"
+  ],
+  "keywords": [
+    "vue3",
+    "element-plus",
+    "components",
+    "lerna",
+    "rollup",
+    "vuepress"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": "^3.2.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.em/oa-html/library-front.git"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "gitHead": "a8911f5e4682b181b719818f415955d15f235067"
+}
