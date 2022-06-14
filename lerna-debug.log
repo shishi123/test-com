@@ -1,0 +1,4 @@
+40 error Error: Command failed with exit code 128: git push --follow-tags --no-verify --atomic origin origin
+40 error fatal: unable to access 'https://github.com/shishi123/test-com.git/': LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443
+40 error     at makeError (/Users/shishi/.nvm/versions/node/v16.15.0/lib/node_modules/lerna/node_modules/execa/lib/error.js:60:11)
+40 error     at handlePromise (/Users/shishi/.nvm/versions/node/v16.15.0/lib/node_modules/lerna/node_modules/execa/index.js:118:26)
