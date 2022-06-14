@@ -1,6 +1,6 @@
 <template>
   <div class="dongdong-components-shishi">
-    <div>
+    <div style="color:red">
     shishi</div>
   </div>
 </template>
